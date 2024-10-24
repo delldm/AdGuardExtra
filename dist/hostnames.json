@@ -2,6 +2,7 @@
     "version": "1.0.644",
     "hosts": [
         "*.livejournal.com",
+        "*.rollercoin.com",
         "*.sdamgia.ru",
         "24smi.org",
         "4pda.ru",
